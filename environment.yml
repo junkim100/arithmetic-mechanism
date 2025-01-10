@@ -1,4 +1,4 @@
-name: hugging
+name: cna
 channels:
   - defaults
 dependencies:
